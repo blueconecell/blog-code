@@ -1,5 +1,5 @@
 # blog-code
-> https://www.tistory.com/member/blog 출신 코드
+> https://blueconecell.tistory.com/ 출신 코드
 
 # Codeforces
 - [코드포스 (Good Bye 2021: 2022 is NEAR) A. Integer Diversity](https://blueconecell.tistory.com/2?category=911049)
