@@ -1,3 +1,5 @@
+[Good Bye 2021: 2022 is NEAR - A. Integer Diversity](https://codeforces.com/contest/1616/problem/A)
+
 [문제설명]
  N개의 정수가 주어진다.  정수에 음수를 부여할 수 있다. **이 정수 배열에서 각기다른 숫자의 값의 최대값을 구하여라.**
 
