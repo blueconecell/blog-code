@@ -9,3 +9,4 @@
 
 # Kaggle
 - [캐글(kaggle) 필사하며 공부하기](https://blueconecell.tistory.com/6?category=918206)
+- [캐글(kaggle) - Titanic](https://blueconecell.tistory.com/7)
