@@ -1,1 +1,1 @@
-[캐글(kaggle) - Titanic](https://blueconecell.tistory.com/7)
+- [캐글(kaggle) - Titanic](https://blueconecell.tistory.com/7)
