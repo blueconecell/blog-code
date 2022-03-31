@@ -4,6 +4,7 @@
 - blog : [파이썬 기초 - 배열과 문자열](https://blueconecell.tistory.com/9)
 - blog : [파이썬 기초 - 기본 자료형](https://blueconecell.tistory.com/10)
 - blog : [파이썬 - map 함수, filter 함수]
+- blog : [부동소수점]
 ***
 - kaggle : [Python basic (파이썬 기초)](https://www.kaggle.com/kimjeongyeon/python-basic/notebook)
 - kaggle : [PythonBasic 파이썬의 기본자료형](https://www.kaggle.com/code/kimjeongyeon/pythonbasic)
