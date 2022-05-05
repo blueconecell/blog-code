@@ -9,3 +9,6 @@
 ***
 - kaggle : [Python basic (파이썬 기초)](https://www.kaggle.com/kimjeongyeon/python-basic/notebook)
 - kaggle : [PythonBasic 파이썬의 기본자료형](https://www.kaggle.com/code/kimjeongyeon/pythonbasic)
+***
+> ## python basic game - Invent with python
+- [파이썬 - 숫자 맞추기 게임](https://blueconecell.tistory.com/14)
