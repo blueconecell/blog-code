@@ -7,7 +7,7 @@
 - blog : [부동소수점]
 - blog : [파이썬 - 매직 매소드 `__add__`]
 - blog : [파이썬 - 넘파이 브로드캐스팅]
-- blog : [파이썬 - 넘파이 repeat]
+- blog : [파이썬 - 넘파이 repeat](https://blueconecell.tistory.com/16)
 ***
 - kaggle : [Python basic (파이썬 기초)](https://www.kaggle.com/kimjeongyeon/python-basic/notebook)
 - kaggle : [PythonBasic 파이썬의 기본자료형](https://www.kaggle.com/code/kimjeongyeon/pythonbasic)
