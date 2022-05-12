@@ -5,9 +5,13 @@
 - blog : [파이썬 기초 - 기본 자료형](https://blueconecell.tistory.com/10)
 - blog : [파이썬 - map 함수, filter 함수](https://blueconecell.tistory.com/12)
 - blog : [부동소수점]
-- blog : [파이썬 - 매직 매소드 `__add__`]
+- blog : [파이썬 - enumerate]
+- blog : [파이썬 - 매직 매소드 __add__]
+- blog - [파이썬 - 넘파이 이미지 흑백만들기]
 - blog : [파이썬 - 넘파이 브로드캐스팅](https://blueconecell.tistory.com/17)
 - blog : [파이썬 - 넘파이 repeat](https://blueconecell.tistory.com/16)
+- blog : [파이썬 - 넘파이 기초]
+
 ***
 - kaggle : [Python basic (파이썬 기초)](https://www.kaggle.com/kimjeongyeon/python-basic/notebook)
 - kaggle : [PythonBasic 파이썬의 기본자료형](https://www.kaggle.com/code/kimjeongyeon/pythonbasic)
