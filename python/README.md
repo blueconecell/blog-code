@@ -12,6 +12,7 @@
 - blog : [파이썬 - 넘파이 repeat](https://blueconecell.tistory.com/16)
 - blog : [파이썬 - 넘파이 기초]
 - blog : [파이썬 - 선형대수 기초]
+- blog : [Top25PandasTricks]
 
 ***
 - kaggle : [Python basic (파이썬 기초)](https://www.kaggle.com/kimjeongyeon/python-basic/notebook)
