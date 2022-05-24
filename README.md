@@ -25,13 +25,14 @@ https://blueconecell.tistory.com/ 출신 코드
 - blog : [파이썬 - 넘파이 브로드캐스팅](https://blueconecell.tistory.com/17)
 - blog : [파이썬 - 넘파이 repeat](https://blueconecell.tistory.com/16)
 - blog : [파이썬 - 넘파이 기초]
-
-***
+<br><br>
 - kaggle : [Python basic (파이썬 기초)](https://www.kaggle.com/kimjeongyeon/python-basic/notebook)
 - kaggle : [PythonBasic 파이썬의 기본자료형](https://www.kaggle.com/code/kimjeongyeon/pythonbasic)
-***
+<br><br>
 > ## python basic game - Invent with python
 - [파이썬 - 숫자 맞추기 게임](https://blueconecell.tistory.com/14)
 <br><br>
 > # Java
 - [자바 - 클래스 기본 예제 (1)](https://blueconecell.tistory.com/11?category=931988)
+- [자바 - 기본 생성자](https://blueconecell.tistory.com/19)
+- [자바 - 메소드 오버로딩](https://blueconecell.tistory.com/20)
