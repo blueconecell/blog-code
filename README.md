@@ -10,8 +10,8 @@ https://blueconecell.tistory.com/ 출신 코드
 <br><br>
 
 > # Kaggle
-- [캐글(kaggle) 필사하며 공부하기](https://blueconecell.tistory.com/6?category=918206)
-- [캐글(kaggle) - Titanic](https://blueconecell.tistory.com/7)
+- Blog : [캐글(kaggle) - Titanic](https://blueconecell.tistory.com/7)
+- Kaggle notebook : [[kr] titanic 타이타닉](https://www.kaggle.com/kimjeongyeon/kr-titanic?scriptVersionId=88139521)
 <br><br>
 > # Python
 
