@@ -6,6 +6,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [코드포스 (Hello 2022) A. Stable Arrangement of Rooks](https://blueconecell.tistory.com/3?category=911049)
 - [코드포스 (Codeforces Round #764 (Div. 3)) A. Plus One on the Subset](https://blueconecell.tistory.com/4?category=911049)
 - [코드포스 (Codeforces Round #765(Div.2)) A. Ancient Civilization](https://blueconecell.tistory.com/5?category=911049)
+- [코드포스 (Codeforces Round #784 (Div. 4)) A. Division?](https://blueconecell.tistory.com/13?category=911049)
 <br><br>
 
 > # Kaggle
