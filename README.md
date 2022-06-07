@@ -34,6 +34,8 @@ https://blueconecell.tistory.com/ 출신 코드
 <br><br>
 > ## python basic game - Invent with python
 - [파이썬 - 숫자 맞추기 게임](https://blueconecell.tistory.com/14)
+- [파이썬 - 농담게임](https://blueconecell.tistory.com/15)
+- [파이썬 - HANGMAN]
 <br><br>
 > # Java
 - blog : [자바 - 클래스 기본 예제 (1)](https://blueconecell.tistory.com/11?category=931988)
