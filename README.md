@@ -47,5 +47,5 @@ https://blueconecell.tistory.com/ 출신 코드
 - blog : [세션과 쿠키](https://blueconecell.tistory.com/22)
 <br><br>
 > # 자료구조
-- blog : [허프만코드]
+- blog : [허프만코드](https://blueconecell.tistory.com/24)
 
