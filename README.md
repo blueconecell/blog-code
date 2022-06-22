@@ -1,9 +1,10 @@
 > # blog-code
 https://blueconecell.tistory.com/ 출신 코드
 <br><br>
-> # 백준
+> # [백준](https://blueconecell.tistory.com/category/%EB%B0%B1%EC%A4%80)
 - [단지번호붙이기 - 백준 2667번](https://blueconecell.tistory.com/26)
-- [카드 정렬하기 - 백준 1715번](https://blueconecell.tistory.com/28?category=944576)
+- [카드 정렬하기 - 백준 1715번](https://blueconecell.tistory.com/28)
+- [잃어버린 괄호 - 백준 1541](https://blueconecell.tistory.com/29)
 
 <br><br>
 > # Codeforces
