@@ -10,7 +10,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [30 - 백준 10610번](https://blueconecell.tistory.com/32)
 
 <br><br>
-> # Codeforces
+> # [Codeforces](https://blueconecell.tistory.com/category/%EC%BD%94%EB%93%9C%ED%8F%AC%EC%8A%A4%20-%20Codeforces)
 - [코드포스 (Good Bye 2021: 2022 is NEAR) A. Integer Diversity](https://blueconecell.tistory.com/2?category=911049)
 - [코드포스 (Hello 2022) A. Stable Arrangement of Rooks](https://blueconecell.tistory.com/3?category=911049)
 - [코드포스 (Codeforces Round #764 (Div. 3)) A. Plus One on the Subset](https://blueconecell.tistory.com/4?category=911049)
@@ -21,11 +21,11 @@ https://blueconecell.tistory.com/ 출신 코드
 
 <br><br>
 
-> # Kaggle
+> # [Kaggle](https://blueconecell.tistory.com/category/%EC%BA%90%EA%B8%80%20-%20%20kaggle)
 - Blog : [캐글(kaggle) - Titanic](https://blueconecell.tistory.com/7)
 - Kaggle notebook : [[kr] titanic 타이타닉](https://www.kaggle.com/kimjeongyeon/kr-titanic?scriptVersionId=88139521)
 <br><br>
-> # Python
+> # [Python](https://blueconecell.tistory.com/category/Python)
 
 - blog : [파이썬 기초 - 변수, 자료형, 사칙연산](https://blueconecell.tistory.com/8)
 - blog : [파이썬 기초 - 배열과 문자열](https://blueconecell.tistory.com/9)
@@ -47,7 +47,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [파이썬 - 농담게임](https://blueconecell.tistory.com/15)
 - [파이썬 - HANGMAN]
 <br><br>
-> # Java
+> # [Java](https://blueconecell.tistory.com/category/Java)
 
 - blog : [자바 - 클래스 기본 예제 (1)](https://blueconecell.tistory.com/11)
 - blog : [자바 - 기본 생성자](https://blueconecell.tistory.com/19)
@@ -56,9 +56,9 @@ https://blueconecell.tistory.com/ 출신 코드
 - blog : [자바 - 오버로딩 vs 오버라이딩](https://blueconecell.tistory.com/23)
 
 <br><br>
-> # 웹
+> # [웹](https://blueconecell.tistory.com/category/%EC%9B%B9)
 - blog : [세션과 쿠키](https://blueconecell.tistory.com/22)
 <br><br>
-> # 자료구조
+> # [자료구조](https://blueconecell.tistory.com/category/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 - blog : [허프만코드](https://blueconecell.tistory.com/24)
 
