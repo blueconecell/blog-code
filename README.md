@@ -8,6 +8,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [동전 0 - 백준 11047번](https://blueconecell.tistory.com/30)
 - [로프 - 백준 2217번](https://blueconecell.tistory.com/31)
 - [30 - 백준 10610번](https://blueconecell.tistory.com/32)
+- [수들의 합 - 백준 1789번](https://blueconecell.tistory.com/33)
 
 <br><br>
 > # [Codeforces](https://blueconecell.tistory.com/category/%EC%BD%94%EB%93%9C%ED%8F%AC%EC%8A%A4%20-%20Codeforces)
