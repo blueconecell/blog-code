@@ -36,7 +36,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - blog : [부동소수점]
 - blog : [파이썬 - enumerate](https://blueconecell.tistory.com/18)
 - blog : [파이썬 - 매직 매소드 __add__]
-- blog - [파이썬 - 넘파이 이미지 흑백만들기]
+- blog : [파이썬 - 넘파이 이미지 흑백만들기]
 - blog : [파이썬 - 넘파이 브로드캐스팅](https://blueconecell.tistory.com/17)
 - blog : [파이썬 - 넘파이 repeat](https://blueconecell.tistory.com/16)
 - blog : [파이썬 - 넘파이 기초]
