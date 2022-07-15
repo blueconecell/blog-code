@@ -66,3 +66,5 @@ https://blueconecell.tistory.com/ 출신 코드
 > # [자료구조](https://blueconecell.tistory.com/category/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 - blog : [허프만코드](https://blueconecell.tistory.com/24)
 
+> # 기타
+- blog : [음성 관련 머신러닝 자료](https://blueconecell.tistory.com/35)
