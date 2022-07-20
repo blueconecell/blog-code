@@ -40,6 +40,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - blog : [파이썬 - 넘파이 브로드캐스팅](https://blueconecell.tistory.com/17)
 - blog : [파이썬 - 넘파이 repeat](https://blueconecell.tistory.com/16)
 - blog : [파이썬 - 넘파이 기초]
+- blog : [BeautifulSoup - 특정 태그값 가져오기](https://blueconecell.tistory.com/36)
 <br><br>
 - kaggle : [Python basic (파이썬 기초)](https://www.kaggle.com/kimjeongyeon/python-basic/notebook)
 - kaggle : [PythonBasic 파이썬의 기본자료형](https://www.kaggle.com/code/kimjeongyeon/pythonbasic)
