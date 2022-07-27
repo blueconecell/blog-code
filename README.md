@@ -10,6 +10,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [30 - 백준 10610번](https://blueconecell.tistory.com/32)
 - [수들의 합 - 백준 1789번](https://blueconecell.tistory.com/33)
 - [뒤집기 - 백준 1439번](https://blueconecell.tistory.com/37)
+- [돌 게임 - 백준 9655번](https://blueconecell.tistory.com/38)
 
 <br><br>
 > # [Codeforces](https://blueconecell.tistory.com/category/%EC%BD%94%EB%93%9C%ED%8F%AC%EC%8A%A4%20-%20Codeforces)
