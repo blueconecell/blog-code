@@ -7,4 +7,4 @@
 - [30 - 백준 10610번](https://blueconecell.tistory.com/32)
 - [수들의 합 - 백준 1789번](https://blueconecell.tistory.com/33)
 - [뒤집기 - 백준 1439번](https://blueconecell.tistory.com/37)
-- [돌 게임 - 백준 9655번](https://blueconecell.tistory.com/manage/posts/)
+- [돌 게임 - 백준 9655번](https://blueconecell.tistory.com/38)
