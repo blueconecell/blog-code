@@ -8,3 +8,5 @@
 - [수들의 합 - 백준 1789번](https://blueconecell.tistory.com/33)
 - [뒤집기 - 백준 1439번](https://blueconecell.tistory.com/37)
 - [돌 게임 - 백준 9655번](https://blueconecell.tistory.com/38)
+- [크면서 작은 수 - 2992번](https://blueconecell.tistory.com/39)
+- [기타줄 - 1049번](https://blueconecell.tistory.com/40)
