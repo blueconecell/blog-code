@@ -1,4 +1,4 @@
-> # blog-code    .
+> # blog-code
 https://blueconecell.tistory.com/ 출신 코드
 <br><br>
 > # [백준](https://blueconecell.tistory.com/category/%EB%B0%B1%EC%A4%80)
