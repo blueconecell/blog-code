@@ -13,6 +13,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [돌 게임 - 백준 9655번](https://blueconecell.tistory.com/38)
 - [크면서 작은 수 - 2992번](https://blueconecell.tistory.com/39)
 - [기타줄 - 1049번](https://blueconecell.tistory.com/40)
+- [그룹 단어 체커 - 1316번](https://blueconecell.tistory.com/41)
 
 <br><br>
 > # [Codeforces](https://blueconecell.tistory.com/category/%EC%BD%94%EB%93%9C%ED%8F%AC%EC%8A%A4%20-%20Codeforces)
