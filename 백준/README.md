@@ -10,3 +10,4 @@
 - [돌 게임 - 백준 9655번](https://blueconecell.tistory.com/38)
 - [크면서 작은 수 - 2992번](https://blueconecell.tistory.com/39)
 - [기타줄 - 1049번](https://blueconecell.tistory.com/40)
+- [그룹 단어 체커 - 1316번](https://blueconecell.tistory.com/41)
