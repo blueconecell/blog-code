@@ -4,6 +4,10 @@ https://blueconecell.tistory.com/ 출신 코드
 
 <br><br>
 > # [백준](https://blueconecell.tistory.com/category/%EB%B0%B1%EC%A4%80)
+
+<details markdown="1">
+<summary>백준 문제 풀이 설명</summary>
+
 - [단지번호붙이기 - 백준 2667번](https://blueconecell.tistory.com/26)
 - [카드 정렬하기 - 백준 1715번](https://blueconecell.tistory.com/28)
 - [잃어버린 괄호 - 백준 1541](https://blueconecell.tistory.com/29)
@@ -16,9 +20,13 @@ https://blueconecell.tistory.com/ 출신 코드
 - [크면서 작은 수 - 2992번](https://blueconecell.tistory.com/39)
 - [기타줄 - 1049번](https://blueconecell.tistory.com/40)
 - [그룹 단어 체커 - 1316번](https://blueconecell.tistory.com/41)
+</details>
 
 <br><br>
 > # [Codeforces](https://blueconecell.tistory.com/category/%EC%BD%94%EB%93%9C%ED%8F%AC%EC%8A%A4%20-%20Codeforces)
+<details markdown="1">
+<summary>콘테스트 문제 풀이 설명</summary>
+
 - [코드포스 (Good Bye 2021: 2022 is NEAR) A. Integer Diversity](https://blueconecell.tistory.com/2?category=911049)
 - [코드포스 (Hello 2022) A. Stable Arrangement of Rooks](https://blueconecell.tistory.com/3?category=911049)
 - [코드포스 (Codeforces Round #764 (Div. 3)) A. Plus One on the Subset](https://blueconecell.tistory.com/4?category=911049)
@@ -28,6 +36,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [코드포스 Codeforces Round #801 (Div. 2) A. Subrectangle Guess](https://blueconecell.tistory.com/27)
 - [코드포스 Codeforces Round #804 (Div. 2) A. The Third Three Number Problem](https://blueconecell.tistory.com/34)
 
+</details>
 <br><br>
 
 > # [Kaggle](https://blueconecell.tistory.com/category/%EC%BA%90%EA%B8%80%20-%20%20kaggle)
@@ -35,6 +44,8 @@ https://blueconecell.tistory.com/ 출신 코드
 - Kaggle notebook : [[kr] titanic 타이타닉](https://www.kaggle.com/kimjeongyeon/kr-titanic?scriptVersionId=88139521)
 <br><br>
 > # [Python](https://blueconecell.tistory.com/category/Python)
+<details markdown="1">
+<summary>파이썬 공부내용</summary>
 
 - blog : [파이썬 기초 - 변수, 자료형, 사칙연산](https://blueconecell.tistory.com/8)
 - blog : [파이썬 기초 - 배열과 문자열](https://blueconecell.tistory.com/9)
@@ -51,7 +62,10 @@ https://blueconecell.tistory.com/ 출신 코드
 <br><br>
 - kaggle : [Python basic (파이썬 기초)](https://www.kaggle.com/kimjeongyeon/python-basic/notebook)
 - kaggle : [PythonBasic 파이썬의 기본자료형](https://www.kaggle.com/code/kimjeongyeon/pythonbasic)
+
+</details>
 <br><br>
+
   > ## python basic game - Invent with python
 - [파이썬 - 숫자 맞추기 게임](https://blueconecell.tistory.com/14)
 - [파이썬 - 농담게임](https://blueconecell.tistory.com/15)
@@ -61,8 +75,8 @@ https://blueconecell.tistory.com/ 출신 코드
 
 <br><br>
 > # [Java](https://blueconecell.tistory.com/category/Java)
-
-
+<details markdown="1">
+<summary>자바 공부내용</summary>
 
 - blog : [자바 - 클래스 기본 예제 (1)](https://blueconecell.tistory.com/11)
 - blog : [자바 - 기본 생성자](https://blueconecell.tistory.com/19)
@@ -70,8 +84,10 @@ https://blueconecell.tistory.com/ 출신 코드
 - blog : [자바 - 기타제어자](https://blueconecell.tistory.com/21)
 - blog : [자바 - 오버로딩 vs 오버라이딩](https://blueconecell.tistory.com/23)
 
+</details>
 <br><br>
-> # [html&CSS]()
+
+> # html&CSS
 
 <br><br>
 > # [웹](https://blueconecell.tistory.com/category/%EC%9B%B9)
