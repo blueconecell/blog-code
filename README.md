@@ -20,6 +20,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [크면서 작은 수 - 2992번](https://blueconecell.tistory.com/39)
 - [기타줄 - 1049번](https://blueconecell.tistory.com/40)
 - [그룹 단어 체커 - 1316번](https://blueconecell.tistory.com/41)
+- [1로 만들기 - 1463번](https://blueconecell.tistory.com/43)
 </details>
 
 <br><br>
