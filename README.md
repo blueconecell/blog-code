@@ -22,6 +22,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [그룹 단어 체커 - 1316번](https://blueconecell.tistory.com/41)
 - [1로 만들기 - 1463번](https://blueconecell.tistory.com/43)
 - [수 정렬하기 1, 2](https://blueconecell.tistory.com/44)
+- [직사각형에서 탈출 - 1085번](https://blueconecell.tistory.com/45)
 </details>
 
 <br><br>
