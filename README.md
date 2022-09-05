@@ -26,7 +26,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [직각삼각형 - 4153번](https://blueconecell.tistory.com/46)
 - [단어정렬 - 1181번](https://blueconecell.tistory.com/48)
 - [괄호 - 9012번](https://blueconecell.tistory.com/49)
-- [K번째 수](https://blueconecell.tistory.com/50)
+- [K번째 수 - 11004번](https://blueconecell.tistory.com/50)
 </details>
 
 <br><br>
