@@ -27,6 +27,8 @@ https://blueconecell.tistory.com/ 출신 코드
 - [단어정렬 - 1181번](https://blueconecell.tistory.com/48)
 - [괄호 - 9012번](https://blueconecell.tistory.com/49)
 - [K번째 수 - 11004번](https://blueconecell.tistory.com/50)
+- [소수 찾기 - 1978번](https://blueconecell.tistory.com/51)
+- [소수 구하기 - 1929번](https://blueconecell.tistory.com/52)
 </details>
 
 <br><br>
