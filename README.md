@@ -29,6 +29,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [K번째 수 - 11004번](https://blueconecell.tistory.com/50)
 - [소수 찾기 - 1978번](https://blueconecell.tistory.com/51)
 - [소수 구하기 - 1929번](https://blueconecell.tistory.com/52)
+- [나무 자르기 - 2805번](https://blueconecell.tistory.com/53)
 </details>
 
 <br><br>
