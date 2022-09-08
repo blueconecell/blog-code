@@ -30,6 +30,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [소수 찾기 - 1978번](https://blueconecell.tistory.com/51)
 - [소수 구하기 - 1929번](https://blueconecell.tistory.com/52)
 - [나무 자르기 - 2805번](https://blueconecell.tistory.com/53)
+- [DFS와 BFS - 1260번](https://blueconecell.tistory.com/54)
 </details>
 
 <br><br>
