@@ -12,6 +12,7 @@
 - blog : [파이썬 - 넘파이 repeat](https://blueconecell.tistory.com/16)
 - blog : [파이썬 - 넘파이 기초]
 - blog : [BeautifulSoup - 특정 태그값 가져오기](https://blueconecell.tistory.com/36)
+- blog : [백준문제 (DFS와 BFS) 깊이우선탐색 너비우선탐색 기본기)](https://blueconecell.tistory.com/54)
 <br><br>
 - kaggle : [Python basic (파이썬 기초)](https://www.kaggle.com/kimjeongyeon/python-basic/notebook)
 - kaggle : [PythonBasic 파이썬의 기본자료형](https://www.kaggle.com/code/kimjeongyeon/pythonbasic)
