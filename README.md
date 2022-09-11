@@ -62,7 +62,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - blog : [파이썬 기초 - 배열과 문자열](https://blueconecell.tistory.com/9)
 - blog : [파이썬 기초 - 기본 자료형](https://blueconecell.tistory.com/10)
 - blog : [파이썬 - map 함수, filter 함수](https://blueconecell.tistory.com/12)
-- blog : [부동소수점]
+- blog : [부동소수점](https://blueconecell.tistory.com/55)
 - blog : [파이썬 - enumerate](https://blueconecell.tistory.com/18)
 - blog : [파이썬 - 매직 매소드 __add__]
 - blog : [파이썬 - 넘파이 이미지 흑백만들기]
