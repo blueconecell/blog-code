@@ -32,7 +32,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [나무 자르기 - 2805번](https://blueconecell.tistory.com/53)
 - [DFS와 BFS - 1260번](https://blueconecell.tistory.com/54)
 - [주유소 - 13305](https://blueconecell.tistory.com/56)
-- [AC - 5430]((https://blueconecell.tistory.com/57)
+- [AC - 5430](https://blueconecell.tistory.com/57)
 </details>
 
 <br><br>
