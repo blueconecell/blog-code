@@ -34,6 +34,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [주유소 - 13305번](https://blueconecell.tistory.com/56)
 - [AC - 5430번](https://blueconecell.tistory.com/57)
 - [A → B - 16953번](https://blueconecell.tistory.com/58)
+- [수 찾기 - 1920번](https://blueconecell.tistory.com/59)
 </details>
 
 <br><br>
