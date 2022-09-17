@@ -36,6 +36,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [A → B - 16953번](https://blueconecell.tistory.com/58)
 - [수 찾기 - 1920번](https://blueconecell.tistory.com/59)
 - [숫자 카드 2 - 10816번](https://blueconecell.tistory.com/60)
+- [숫자 카드 - 10815번](https://blueconecell.tistory.com/61)
 </details>
 
 <br><br>
