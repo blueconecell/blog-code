@@ -39,7 +39,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [숫자 카드 - 10815번](https://blueconecell.tistory.com/61)
 - [스택 - 10828번](https://blueconecell.tistory.com/62)
 - [A와 B - 12904번](https://blueconecell.tistory.com/63)
-- [계단 오르기 - 2579](https://blueconecell.tistory.com/65)
+- [계단 오르기 - 2579번](https://blueconecell.tistory.com/65)
 </details>
 
 <br><br>
