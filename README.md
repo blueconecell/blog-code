@@ -41,6 +41,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [A와 B - 12904번](https://blueconecell.tistory.com/63)
 - [계단 오르기 - 2579번](https://blueconecell.tistory.com/65)
 - [수 정렬하기 3](https://blueconecell.tistory.com/66)
+- [약수 - 1037번](https://blueconecell.tistory.com/67)
 </details>
 
 <br><br>
