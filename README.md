@@ -43,6 +43,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [수 정렬하기 3](https://blueconecell.tistory.com/66)
 - [약수 - 1037번](https://blueconecell.tistory.com/67)
 - [알고리즘 수업 - 깊이 우선 탐색 1 - 24479번](https://blueconecell.tistory.com/69)
+- [알고리즘 수업 - 깊이 우선 탐색 2 - 24480번](https://blueconecell.tistory.com/70)
 </details>
 
 <br><br>
