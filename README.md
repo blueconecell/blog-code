@@ -44,6 +44,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [약수 - 1037번](https://blueconecell.tistory.com/67)
 - [알고리즘 수업 - 깊이 우선 탐색 1 - 24479번](https://blueconecell.tistory.com/69)
 - [알고리즘 수업 - 깊이 우선 탐색 2 - 24480번](https://blueconecell.tistory.com/70)
+- [골드바흐의 추측 - 9020번](https://blueconecell.tistory.com/71)
 </details>
 
 <br><br>
