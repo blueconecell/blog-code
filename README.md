@@ -47,6 +47,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [골드바흐의 추측 - 9020번](https://blueconecell.tistory.com/71)
 - [바이러스 - 2606번](https://blueconecell.tistory.com/72)
 - [RGB거리 - 1149번](https://blueconecell.tistory.com/73)
+- [RGB거리 2 - 17404번](https://blueconecell.tistory.com/74)
 </details>
 
 <br><br>
