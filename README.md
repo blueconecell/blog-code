@@ -49,6 +49,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [RGB거리 - 1149번](https://blueconecell.tistory.com/73)
 - [RGB거리 2 - 17404번](https://blueconecell.tistory.com/74)
 - [팰린드롬수 - 1259번](https://blueconecell.tistory.com/75)
+- [분해합 - 2231번](https://blueconecell.tistory.com/76)
 </details>
 
 <br><br>
