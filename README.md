@@ -50,6 +50,8 @@ https://blueconecell.tistory.com/ 출신 코드
 - [RGB거리 2 - 17404번](https://blueconecell.tistory.com/74)
 - [팰린드롬수 - 1259번](https://blueconecell.tistory.com/75)
 - [분해합 - 2231번](https://blueconecell.tistory.com/76)
+- [이항 계수 1 - 11050번](https://blueconecell.tistory.com/77)
+- [ACM 호텔 - 10250 번](https://blueconecell.tistory.com/78)
 </details>
 
 <br><br>
