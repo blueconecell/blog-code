@@ -52,6 +52,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [분해합 - 2231번](https://blueconecell.tistory.com/76)
 - [이항 계수 1 - 11050번](https://blueconecell.tistory.com/77)
 - [ACM 호텔 - 10250 번](https://blueconecell.tistory.com/78)
+- [N과 M (1) - 15649 번](https://blueconecell.tistory.com/79)
 </details>
 
 <br><br>
