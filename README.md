@@ -54,6 +54,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [ACM 호텔 - 10250 번](https://blueconecell.tistory.com/78)
 - [N과 M (1) - 15649 번](https://blueconecell.tistory.com/79)
 - [N과 M (2) - 15650 번](https://blueconecell.tistory.com/80)
+- [유기농 배추 - 1012 번](https://blueconecell.tistory.com/81)
 </details>
 
 <br><br>
