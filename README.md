@@ -57,6 +57,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [유기농 배추 - 1012 번](https://blueconecell.tistory.com/81)
 - [미로탐색 - 2178 번](https://blueconecell.tistory.com/82)
 - [적록색약 - 10026번](https://blueconecell.tistory.com/83)
+- [영화감독 숌 - 1436번](https://blueconecell.tistory.com/84)
 </details>
 
 <br><br>
