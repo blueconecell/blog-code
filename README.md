@@ -58,6 +58,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [미로탐색 - 2178 번](https://blueconecell.tistory.com/82)
 - [적록색약 - 10026번](https://blueconecell.tistory.com/83)
 - [영화감독 숌 - 1436번](https://blueconecell.tistory.com/84)
+- [나이순 정렬 - 10814번](https://blueconecell.tistory.com/85)
 </details>
 
 <br><br>
