@@ -60,6 +60,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [영화감독 숌 - 1436번](https://blueconecell.tistory.com/84)
 - [나이순 정렬 - 10814번](https://blueconecell.tistory.com/85)
 - [체스판 다시 칠하기 - 1018번](https://blueconecell.tistory.com/86)
+- [좌표 정렬하기 - 11650번](https://blueconecell.tistory.com/87)
 </details>
 
 <br><br>
