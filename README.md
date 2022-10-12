@@ -61,6 +61,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [나이순 정렬 - 10814번](https://blueconecell.tistory.com/85)
 - [체스판 다시 칠하기 - 1018번](https://blueconecell.tistory.com/86)
 - [좌표 정렬하기 - 11650번](https://blueconecell.tistory.com/87)
+- [요세푸스 문제 0 - 11866번](https://blueconecell.tistory.com/88)
 </details>
 
 <br><br>
