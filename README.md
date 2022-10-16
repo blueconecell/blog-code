@@ -64,6 +64,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [요세푸스 문제 0 - 11866번](https://blueconecell.tistory.com/88)
 - [달팽이는 올라가고 싶다 - 2869번](https://blueconecell.tistory.com/89)
 - [가운데를 말해요 - 1655번](https://blueconecell.tistory.com/90)
+- [보석도둑 - 1202번](https://blueconecell.tistory.com/91)
 </details>
 
 <br><br>
