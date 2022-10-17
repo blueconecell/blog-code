@@ -65,6 +65,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [달팽이는 올라가고 싶다 - 2869번](https://blueconecell.tistory.com/89)
 - [가운데를 말해요 - 1655번](https://blueconecell.tistory.com/90)
 - [보석도둑 - 1202번](https://blueconecell.tistory.com/91)
+- [별 찍기 - 23 - 13015번](https://blueconecell.tistory.com/m/92)
 </details>
 
 <br><br>
