@@ -131,6 +131,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - blog : [자바 - 메소드 오버로딩](https://blueconecell.tistory.com/20)
 - blog : [자바 - 기타제어자](https://blueconecell.tistory.com/21)
 - blog : [자바 - 오버로딩 vs 오버라이딩](https://blueconecell.tistory.com/23)
+- blog : [상속](https://blueconecell.tistory.com/94)
 
 </details>
 <br><br>
