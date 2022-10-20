@@ -67,6 +67,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [보석도둑 - 1202번](https://blueconecell.tistory.com/91)
 - [별 찍기 - 23 - 13015번](https://blueconecell.tistory.com/m/92)
 - [별 찍기 - 19 - 10994번](https://blueconecell.tistory.com/m/93)
+- [스택 수열 - 1874번](https://blueconecell.tistory.com/95)
 </details>
 
 <br><br>
