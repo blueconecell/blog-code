@@ -133,6 +133,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - blog : [자바 - 기타제어자](https://blueconecell.tistory.com/21)
 - blog : [자바 - 오버로딩 vs 오버라이딩](https://blueconecell.tistory.com/23)
 - blog : [상속](https://blueconecell.tistory.com/94)
+- blog : [소수 판별 & 상속](https://blueconecell.tistory.com/96)
 
 </details>
 <br><br>
