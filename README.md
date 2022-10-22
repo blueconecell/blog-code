@@ -150,3 +150,4 @@ https://blueconecell.tistory.com/ 출신 코드
 
 > # [기타](https://blueconecell.tistory.com/category/%EA%B8%B0%ED%83%80)
 - blog : [음성 관련 머신러닝 자료](https://blueconecell.tistory.com/35)
+- blog : [부울 대수에서 모든 원소의 보수가 유일함을 증명 2가지](https://blueconecell.tistory.com/98)
