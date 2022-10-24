@@ -68,6 +68,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [별 찍기 - 23 - 13015번](https://blueconecell.tistory.com/92)
 - [별 찍기 - 19 - 10994번](https://blueconecell.tistory.com/93)
 - [스택 수열 - 1874번](https://blueconecell.tistory.com/95)
+- [블랙잭 - 2798번](https://blueconecell.tistory.com/97)
 </details>
 
 <br><br>
