@@ -72,6 +72,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [통계학 - 2108번](https://blueconecell.tistory.com/99)
 - [프린터 큐 - 1966번](https://blueconecell.tistory.com/100)
 - [큐 - 10845번](https://blueconecell.tistory.com/101)
+- [덱 - 10866번](https://blueconecell.tistory.com/102)
 
 </details>
 
