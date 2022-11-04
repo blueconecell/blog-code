@@ -80,6 +80,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [최소 힙 - 1927번](https://blueconecell.tistory.com/107)
 - [최대 힙 - 11279번](https://blueconecell.tistory.com/108)
 - [후위 표기식 - 1918번](https://blueconecell.tistory.com/109)
+- [절댓값 힙 - 11286번](https://blueconecell.tistory.com/110)
 
 </details>
 
