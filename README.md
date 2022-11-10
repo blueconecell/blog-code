@@ -83,6 +83,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [절댓값 힙 - 11286번](https://blueconecell.tistory.com/110)
 - [키로거 - 5397번](https://blueconecell.tistory.com/111)
 - [마인크래프트-18111번](https://blueconecell.tistory.com/112)
+- [제로 - 10773번](https://blueconecell.tistory.com/113)
 
 </details>
 
