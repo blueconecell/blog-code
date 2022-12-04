@@ -89,6 +89,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [플로이드 - 11404번](https://blueconecell.tistory.com/117)
 - [경로 찾기 - 11403번](https://blueconecell.tistory.com/118)
 - [케빈 베이컨의 6단계 법칙 - 1389번](https://blueconecell.tistory.com/119)
+- [Identify, Sort, Index, Solve - 26150번](https://blueconecell.tistory.com/120)
 
 </details>
 
