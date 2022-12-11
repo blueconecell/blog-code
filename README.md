@@ -92,6 +92,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [Identify, Sort, Index, Solve - 26150번](https://blueconecell.tistory.com/120)
 - [출제비 재분배 - 26145번](https://blueconecell.tistory.com/122)
 - [큐빙 - 5373번](https://blueconecell.tistory.com/121)
+- [평범한 배낭 - 12865번](https://blueconecell.tistory.com/123)
 
 </details>
 
