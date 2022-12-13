@@ -94,6 +94,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [큐빙 - 5373번](https://blueconecell.tistory.com/121)
 - [평범한 배낭 - 12865번](https://blueconecell.tistory.com/123)
 - [눈 치우기 - 26215번](https://blueconecell.tistory.com/124)
+- [[python] 별꽃의 세레나데 (Easy) - 26217번](https://blueconecell.tistory.com/125)
 
 </details>
 
