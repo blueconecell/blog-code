@@ -137,6 +137,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - blog : [BeautifulSoup - 특정 태그값 가져오기](https://blueconecell.tistory.com/36)
 - blog : [2023 KAKAO BLIND RECRUITMENT 1차 코딩테스트 1](https://blueconecell.tistory.com/68)
 - blog : [파이썬 - 전위 표현식](https://blueconecell.tistory.com/115)
+- blog : [[python] 슬라이싱을 이용한 copy](https://blueconecell.tistory.com/126)
 <br><br>
 - kaggle : [Python basic (파이썬 기초)](https://www.kaggle.com/kimjeongyeon/python-basic/notebook)
 - kaggle : [PythonBasic 파이썬의 기본자료형](https://www.kaggle.com/code/kimjeongyeon/pythonbasic)
