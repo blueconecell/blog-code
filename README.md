@@ -99,6 +99,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [[python]팬그램 - 10384번](https://blueconecell.tistory.com/128)
 - [[python]로봇 청소기 - 14503번](https://blueconecell.tistory.com/129)
 - [[python] 멘토와 멘티 - 26265 번](https://blueconecell.tistory.com/130)
+- [[python]은?행 털!자 1 - 26267](https://blueconecell.tistory.com/131)
 
 </details>
 
