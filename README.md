@@ -101,6 +101,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [[python] 멘토와 멘티 - 26265 번](https://blueconecell.tistory.com/130)
 - [[python]은?행 털!자 1 - 26267](https://blueconecell.tistory.com/131)
 - [27866번: 문자와 문자열 [백준 Python]](https://blueconecell.tistory.com/133)
+- [1920번: 수 찾기 [백준 - Python]](https://blueconecell.tistory.com/134)
 
 </details>
 
