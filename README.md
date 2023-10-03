@@ -104,6 +104,7 @@ https://blueconecell.tistory.com/ 출신 코드
 - [1920번: 수 찾기 [백준 - Python]](https://blueconecell.tistory.com/134)
 - [1676번: 팩토리얼 0의 개수 [백준 - Python]](https://blueconecell.tistory.com/135)
 - [11070 : 피타고라스 기댓값 [백준 - Python]](https://blueconecell.tistory.com/136)
+- [26111: Parentheses Tree [백준 - Python]](https://blueconecell.tistory.com/137)
 
 </details>
 
